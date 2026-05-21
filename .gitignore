@@ -1,0 +1,7 @@
+data/
+DATA_CLEAN/
+runs/
+__pycache__/
+*.pyc
+*.cache
+*.pt
